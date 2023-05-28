@@ -1,5 +1,5 @@
 ## Hello, World! 👋 my name is Sakhile
-===========================================
+
 A Professional Pilot Embracing the World of Technology
 
 ### About Me
@@ -12,8 +12,10 @@ Greetings! I'm a professional pilot with a passion for technology and a desire t
 - 💬 Ask me about: Technology, and Aviation
 - 📫 How to reach me: [mail](mailto:sakhilelindah@protonmail.com)
 - ⚡ Fun fact: A professional pilot
+
+
 <a href="https://www.github.com/sakhi-4096" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/sakhi-4096?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Interests
 <p align="left">
@@ -32,6 +34,8 @@ src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for
 ### Badges
 
 <b>My GitHub Stats</b>
+
+
 <a href="http://www.github.com/sakhi-4096"><img src="https://github-readme-stats.vercel.app/api?username=sakhi-4096&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sakhi-4096's GitHub stats" /></a>
 
 ## Let's Collaborate!
