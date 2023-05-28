@@ -3,7 +3,8 @@
 A Professional Pilot Embracing the World of Technology
 
 ### About Me
-Greetings! I'm a professional pilot with a passion for technology and a desire to expand my horizons beyond the cockpit. While flying has been my primary career, I've recently embarked on a journey to explore software engineering, competitive programming, and cybersecurity. This unique combination allows me to bring a fresh perspective and a diverse skill set to the ever-evolving world of technology.
+---
+I'm a professional pilot with a passion for technology and a desire to expand my horizons beyond the cockpit. While flying has been my primary career, I've recently embarked on a journey to explore software engineering, competitive programming, and cybersecurity. This unique combination allows me to bring a fresh perspective and a diverse skill set to the ever-evolving world of technology.
 
 - I am based in South Africa, for now ...
 - 🌱 I’m currently learning: Software Engineering, Competitive Programming, and CyberSecurity
@@ -29,7 +30,7 @@ src="https://img.shields.io/github/followers/sakhi-4096?logo=github&style=for-th
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 
 ### Socials
-<p align="left"> <a href="https://www.twitter.com/danielcranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.twitter.com/sakhi-4096" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
